@@ -1,0 +1,19 @@
+{
+  "name": "bitmaptransformer",
+  "version": "0.1.0",
+  "description": "transforms pixels to black",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tallglass9000/HTTP-Server/tree/bitmapTransformer"
+  },
+  "author": "lady.blue2015@yahoo.com",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {}
+}
